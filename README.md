@@ -41,5 +41,5 @@ Menjaga jadwal makan hewan peliharaan seringkali sulit di tengah kesibukan. **Au
 
 | Dashboard Utama | Riwayat Makan | Pengaturan Alat |
 | :---: | :---: | :---: |
-| ![Dashboard](https://github.com/DeasRp/automeow/blob/main/assets/screenshots/homepage.jpeg) | ![History]([https://via.placeholder.com/200x400?text=History](https://github.com/DeasRp/automeow/blob/main/assets/screenshots/graphpage.jpeg) | ![Scheduler](https://github.com/DeasRp/automeow/blob/main/assets/screenshots/schedulerpage.jpg) |
+| ![Dashboard](https://github.com/DeasRp/automeow/blob/main/assets/screenshots/homepage.jpeg) | ![History](https://github.com/DeasRp/automeow/blob/main/assets/screenshots/graphpage.jpeg) | ![Scheduler](https://github.com/DeasRp/automeow/blob/main/assets/screenshots/schedulerpage.jpg) |
 
